@@ -14,6 +14,5 @@ python app.py
 ```
 
 # rare-diseases-SE
-``` 
 The goal of this search engine is to help doctors find latest and most relevant information about any rare disease published on scientific journals based on natural language understanding
-``` 
+
